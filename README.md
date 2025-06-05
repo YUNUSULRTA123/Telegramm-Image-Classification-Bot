@@ -6,3 +6,4 @@
 Теперь мы знаем данное лицо фейковое или нет :) 😎
 
 ![image](https://github.com/user-attachments/assets/34262f1c-59df-44ff-b1ef-0a4ba3ceed20)
+![image](https://github.com/user-attachments/assets/9bce27e7-b7ed-4739-8cda-e7eca472eca4)
