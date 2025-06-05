@@ -8,7 +8,7 @@ labels_path="C:\Users\Администратор\Desktop\AI bot\Converted_keras\
 
 def detect_deapfake_or_real_person(image_path):
     try:
-        detector = YOLO("yolov8n.pt")
+        detector = YOLO("yolov.pt")
         results = detector(image_path)
         objects = results[0].boxes.cls.cpu().numpy() 
         if not any(cls in [0] for cls in objects):
